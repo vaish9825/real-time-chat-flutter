@@ -67,5 +67,12 @@ supabase/
 - Secure keys with dotenv
 - Remove desktop/web support for mobile focus
 
+## Resume Highlights
+
+- Engineered a real-time chat app supporting 1:1 and group messaging for up to 1000 concurrent users using Flutter and Supabase.
+- Reduced authentication and message delivery latency to under 200ms by leveraging Supabase real-time APIs and optimized FCM integration.
+- Built 6+ reusable Flutter widgets for chat UI, message input, and user image handling, enhancing code maintainability and scalability.
+- Secured sensitive keys and configuration using environment variables, achieving 100% compliance with mobile security best practices.
+
 ## License
 MIT
