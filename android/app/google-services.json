@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "485401757910",
+    "firebase_url": "https://learn-learn-d0f76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learn-learn-d0f76",
+    "storage_bucket": "learn-learn-d0f76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485401757910:android:7870da86e6a275e9b0e177",
+        "android_client_info": {
+          "package_name": "com.example.rtc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_p-XLYKPk32UZZxFO0HY-alinysedPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
