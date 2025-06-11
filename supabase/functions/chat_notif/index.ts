@@ -18,7 +18,7 @@ const supabase = createClient(
 
 interface Chat {
   id: string;
-  created_at: timestamp;
+  created_at: string; // or Date, depending on your usage
   msg: string;
   username: string;
   user_img: string;
