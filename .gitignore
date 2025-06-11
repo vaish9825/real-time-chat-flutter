@@ -52,3 +52,5 @@ linux/
 macos/
 windows/
 web/
+
+supabase/functions/service-account.json
